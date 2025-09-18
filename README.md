@@ -39,3 +39,4 @@ A simple but powerful Python script to automatically organize files in a directo
     python organizer.py
     ```
 4.  **Enter the path** to the directory you want to clean up when prompted.
+
